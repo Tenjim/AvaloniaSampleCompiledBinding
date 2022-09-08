@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaSampleCompiledBinding", "AvaloniaSampleCompiledBinding\AvaloniaSampleCompiledBinding.csproj", "{E7ED7F23-8CD6-4819-BF4E-5E86A9C72552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaSample.Controls", "AvaloniaSample.Controls\AvaloniaSample.Controls.csproj", "{7C6A026D-DB1E-42E7-8393-9158F956E97C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaSample.ViewModel", "AvaloniaSample.ViewModel\AvaloniaSample.ViewModel.csproj", "{B3F11358-1932-49CD-BAD8-4302A9D93E71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7ED7F23-8CD6-4819-BF4E-5E86A9C72552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7ED7F23-8CD6-4819-BF4E-5E86A9C72552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7ED7F23-8CD6-4819-BF4E-5E86A9C72552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7ED7F23-8CD6-4819-BF4E-5E86A9C72552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C6A026D-DB1E-42E7-8393-9158F956E97C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6A026D-DB1E-42E7-8393-9158F956E97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6A026D-DB1E-42E7-8393-9158F956E97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6A026D-DB1E-42E7-8393-9158F956E97C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3F11358-1932-49CD-BAD8-4302A9D93E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F11358-1932-49CD-BAD8-4302A9D93E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F11358-1932-49CD-BAD8-4302A9D93E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F11358-1932-49CD-BAD8-4302A9D93E71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

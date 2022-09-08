@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="AvaloniaSampleCompiledBinding/App.axaml" value="AvaloniaSampleCompiledBinding/AvaloniaSampleCompiledBinding.csproj" />
+        <entry key="AvaloniaSampleCompiledBinding/Views/MainWindow.axaml" value="AvaloniaSampleCompiledBinding/AvaloniaSampleCompiledBinding.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

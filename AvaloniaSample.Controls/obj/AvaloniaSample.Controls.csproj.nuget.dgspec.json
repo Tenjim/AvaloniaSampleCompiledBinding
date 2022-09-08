@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Minh\\Dev Local\\poc\\AvaloniaSampleCompiledBinding\\AvaloniaSample.Controls\\AvaloniaSample.Controls.csproj": {}
+  },
+  "projects": {
+    "C:\\Minh\\Dev Local\\poc\\AvaloniaSampleCompiledBinding\\AvaloniaSample.Controls\\AvaloniaSample.Controls.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Minh\\Dev Local\\poc\\AvaloniaSampleCompiledBinding\\AvaloniaSample.Controls\\AvaloniaSample.Controls.csproj",
+        "projectName": "AvaloniaSample.Controls",
+        "projectPath": "C:\\Minh\\Dev Local\\poc\\AvaloniaSampleCompiledBinding\\AvaloniaSample.Controls\\AvaloniaSample.Controls.csproj",
+        "packagesPath": "C:\\Users\\Minh-Tien.Vu\\.nuget\\packages\\",
+        "outputPath": "C:\\Minh\\Dev Local\\poc\\AvaloniaSampleCompiledBinding\\AvaloniaSample.Controls\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Minh-Tien.Vu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "http://agent007.ad.irislink.com:8070/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Minh\\Dev Local\\poc\\AvaloniaSampleCompiledBinding\\AvaloniaSample.ViewModel\\AvaloniaSample.ViewModel.csproj": {
+                "projectPath": "C:\\Minh\\Dev Local\\poc\\AvaloniaSampleCompiledBinding\\AvaloniaSample.ViewModel\\AvaloniaSample.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Avalonia": {
+              "target": "Package",
+              "version": "[0.10.18, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Minh\\Dev Local\\poc\\AvaloniaSampleCompiledBinding\\AvaloniaSample.ViewModel\\AvaloniaSample.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Minh\\Dev Local\\poc\\AvaloniaSampleCompiledBinding\\AvaloniaSample.ViewModel\\AvaloniaSample.ViewModel.csproj",
+        "projectName": "AvaloniaSample.ViewModel",
+        "projectPath": "C:\\Minh\\Dev Local\\poc\\AvaloniaSampleCompiledBinding\\AvaloniaSample.ViewModel\\AvaloniaSample.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\Minh-Tien.Vu\\.nuget\\packages\\",
+        "outputPath": "C:\\Minh\\Dev Local\\poc\\AvaloniaSampleCompiledBinding\\AvaloniaSample.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Minh-Tien.Vu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "http://agent007.ad.irislink.com:8070/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Avalonia": {
+              "target": "Package",
+              "version": "[0.10.18, )"
+            },
+            "Avalonia.ReactiveUI": {
+              "target": "Package",
+              "version": "[0.10.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Minh\Dev Local\poc\AvaloniaSampleCompiledBinding\AvaloniaSample.Controls\bin\Debug\net6.0\AvaloniaSample.Controls.deps.json
+C:\Minh\Dev Local\poc\AvaloniaSampleCompiledBinding\AvaloniaSample.Controls\bin\Debug\net6.0\AvaloniaSample.Controls.dll
+C:\Minh\Dev Local\poc\AvaloniaSampleCompiledBinding\AvaloniaSample.Controls\bin\Debug\net6.0\AvaloniaSample.Controls.pdb
+C:\Minh\Dev Local\poc\AvaloniaSampleCompiledBinding\AvaloniaSample.Controls\bin\Debug\net6.0\AvaloniaSample.ViewModel.dll
+C:\Minh\Dev Local\poc\AvaloniaSampleCompiledBinding\AvaloniaSample.Controls\bin\Debug\net6.0\AvaloniaSample.ViewModel.pdb
+C:\Minh\Dev Local\poc\AvaloniaSampleCompiledBinding\AvaloniaSample.Controls\obj\Debug\net6.0\AvaloniaSample.Controls.csproj.AssemblyReference.cache
+C:\Minh\Dev Local\poc\AvaloniaSampleCompiledBinding\AvaloniaSample.Controls\obj\Debug\net6.0\AvaloniaSample.Controls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Minh\Dev Local\poc\AvaloniaSampleCompiledBinding\AvaloniaSample.Controls\obj\Debug\net6.0\AvaloniaSample.Controls.AssemblyInfoInputs.cache
+C:\Minh\Dev Local\poc\AvaloniaSampleCompiledBinding\AvaloniaSample.Controls\obj\Debug\net6.0\AvaloniaSample.Controls.AssemblyInfo.cs
+C:\Minh\Dev Local\poc\AvaloniaSampleCompiledBinding\AvaloniaSample.Controls\obj\Debug\net6.0\AvaloniaSample.Controls.csproj.CoreCompileInputs.cache
+C:\Minh\Dev Local\poc\AvaloniaSampleCompiledBinding\AvaloniaSample.Controls\obj\Debug\net6.0\AvaloniaSample.Controls.csproj.CopyComplete
+C:\Minh\Dev Local\poc\AvaloniaSampleCompiledBinding\AvaloniaSample.Controls\obj\Debug\net6.0\AvaloniaSample.Controls.dll
+C:\Minh\Dev Local\poc\AvaloniaSampleCompiledBinding\AvaloniaSample.Controls\obj\Debug\net6.0\refint\AvaloniaSample.Controls.dll
+C:\Minh\Dev Local\poc\AvaloniaSampleCompiledBinding\AvaloniaSample.Controls\obj\Debug\net6.0\AvaloniaSample.Controls.pdb
+C:\Minh\Dev Local\poc\AvaloniaSampleCompiledBinding\AvaloniaSample.Controls\obj\Debug\net6.0\ref\AvaloniaSample.Controls.dll

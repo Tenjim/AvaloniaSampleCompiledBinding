@@ -1,0 +1,24 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:viewModels="clr-namespace:AvaloniaSampleCompiledBinding.ViewModels;assembly=AvaloniaSample.ViewModel"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="AvaloniaSampleCompiledBinding.Views.MainWindow"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="AvaloniaSampleCompiledBinding"
+        x:DataType="viewModels:MainWindowViewModel"
+        x:CompileBindings="True">
+    <!-- TODO remarks: I want to use CompileBinding with this DataContext -->
+    <!-- DataContext="{Binding MainWindowViewModel, Source={StaticResource ViewModelLocator}}" -->
+    
+    <StackPanel>
+        <TextBlock Text="{Binding Greeting}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    
+        <Button Content="Click Here !" Command="{Binding HelloCommand}" />
+        
+        <TextBlock Text="{Binding Message}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    </StackPanel>
+   
+
+</Window>
